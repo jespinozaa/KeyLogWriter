@@ -1,0 +1,6 @@
+C:\Users\jespinoza\Desktop\ReadAntorcha\ReadAntorcha\bin\Debug\ReadAntorcha.exe.config
+C:\Users\jespinoza\Desktop\ReadAntorcha\ReadAntorcha\bin\Debug\ReadAntorcha.exe
+C:\Users\jespinoza\Desktop\ReadAntorcha\ReadAntorcha\bin\Debug\ReadAntorcha.pdb
+C:\Users\jespinoza\Desktop\ReadAntorcha\ReadAntorcha\obj\Debug\ReadAntorcha.csprojResolveAssemblyReference.cache
+C:\Users\jespinoza\Desktop\ReadAntorcha\ReadAntorcha\obj\Debug\ReadAntorcha.exe
+C:\Users\jespinoza\Desktop\ReadAntorcha\ReadAntorcha\obj\Debug\ReadAntorcha.pdb
